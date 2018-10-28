@@ -1,6 +1,6 @@
 {
   "name": "observable-cors",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Relay a request, adding on a CORS header",
   "main": "server.js",
   "scripts": {
